@@ -1,2 +1,3 @@
 ## proyecto
-### Mi primer proyecto de prueba en github
+### Mi primer proyecto en github.
+### autor: Diego	
