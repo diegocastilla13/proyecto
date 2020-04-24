@@ -1,2 +1,2 @@
 ## proyecto
-# Mi primer proyecto de prueba en github
+### Mi primer proyecto de prueba en github
